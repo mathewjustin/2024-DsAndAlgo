@@ -36,7 +36,7 @@ public class JumpGameII {
         System.out.println(jumpGameII.jump(nums));
     }
 
-    private int jump2(int[] nums) {
+    private int jump(int[] nums) {
         int n = nums.length;
         int jumps = 0;
         int currentJumpEnd = 0;
