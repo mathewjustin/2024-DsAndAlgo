@@ -8,7 +8,7 @@ You are given an integer array nums. You are initially positioned at the array's
 
 Return true if you can reach the last index, or false otherwise.
 
-
+Bug reproduced and fixed in 14
 
 For example consider this array
 
